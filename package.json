@@ -1,0 +1,33 @@
+{
+	"name": "Theme-Lambandhammer",
+	"displayName": "Lamb&Hammer Theme",
+	"description": "Lamb&Hammer Theme ported from the VSCode HC Theme",
+	"version": "0.1",
+	"publisher": "BogdanRC",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-Batman/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCodeThemes.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Lamb&Hammer",
+				"uiTheme": "hc-black",
+				"path": "./themes/lh_theme_defaults_0.1.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f3639b8e-a94b-49c8-bfab-b53ccba66bba",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "BogdanRC"
+	}
+}
