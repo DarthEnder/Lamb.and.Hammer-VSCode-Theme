@@ -1,4 +1,4 @@
-# NaturalContrast with HighContrastFrame
+# Lamb&Hammer with HighContrastFrame
 
 ![image](https://github.com/DarthEnder/Lamb.and.Hammer-VSCode-Theme/blob/master/ss.png?raw=true)
 
