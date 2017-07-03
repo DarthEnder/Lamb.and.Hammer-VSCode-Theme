@@ -1,28 +1,33 @@
 {
-	"name": "Theme-Lambandhammer",
-	"displayName": "Lamb&Hammer Theme",
-	"description": "Lamb&Hammer Theme ported from the VSCode HC Theme",
-	"version": "0.1",
+	"name": "Theme-NaturalContrast-With-HC",
+	"displayName": "Lamb&Hammer Theme with High contrast",
+	"description": "Lamb&Hammer Theme with High Contrast Frame",
+	"version": "1.0.0",
 	"publisher": "DarthEnder",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DarthEnder/Lamb.and.Hammer-VSCode-Theme"
+	},
+	"homepage": "https://github.com/DarthEnder/Lamb.and.Hammer-VSCode-Theme",
 	"engines": {
-		"vscode": "^0.10.1"
+		"vscode": "^1.3.0"
 	},
 	"categories": [
 		"Themes"
 	],
 	"icon": "icon.png",
-	"homepage": "https://github.com/DarthEnder/Lamb.and.Hammer-VSCode-Theme/blob/master/README.md",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/DarthEnder/Lamb.and.Hammer-VSCode-Theme.git"
-	},
 	"contributes": {
 		"themes": [
 			{
-				"label": "Lamb&Hammer",
+				"label": "Lamb&Hammer HC",
 				"uiTheme": "hc-black",
-				"path": "./themes/lh_theme_defaults_0.1.tmtheme"
+				"path": "./themes/lh_theme_defaults.tmtheme"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "",
+		"publisherId": "",
+		"publisherDisplayName": "DarthEnder"
 	}
 }

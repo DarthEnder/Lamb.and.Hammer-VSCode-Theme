@@ -1,12 +1,7 @@
-# Lamb&Hammer
+# NaturalContrast with HighContrastFrame
 
-A theme based on the VS Code High Contrast Theme.
+![image](https://github.com/DarthEnder/Lamb.and.Hammer-VSCode-Theme/blob/master/screenshot.PNG?raw=true)
 
-
-## Screenshot
-![](https://raw.githubusercontent.com/gerane/VSCodeThemes/master/gerane.Theme-Batman/screenshot.PNG).
-
-
-## More Information
-* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items/gerane.Theme-Batman).
-* [GitHub repository](https://github.com/DarthEnder/Lamb.and.Hammer-VSCode-Theme).
+* based on [NaturalContrast TextMate Theme](http://colorsublime.com/theme/NaturalContrast)
+* using VSCode high contrast frame
+* additional some arrages (ex: cursor line, comment color)
